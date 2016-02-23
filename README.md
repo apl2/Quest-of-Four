@@ -11,4 +11,5 @@ Click the Download ZIP button.
 After it downloads, extract.
 Open two folders, which will be called QuestOfFour-master, unless you call them something else.
 Launch QuestOfFour.
-Note: It will warn you about security, and although this is not a virus, all risk is yours and we are not responsible for anything that may happen.
+  Note: It will warn you about security.
+By downloading this, you agree to the license agreement. https://github.com/apl2/QuestOfFour/blob/master/license.md
