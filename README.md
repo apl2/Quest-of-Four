@@ -12,4 +12,4 @@ After it downloads, extract.
 Open two folders, which will be called QuestOfFour-master, unless you call them something else.
 Launch QuestOfFour.
   Note: It will warn you about security.
-By downloading this, you agree to the license agreement. https://github.com/apl2/QuestOfFour/blob/master/license.md
+By downloading this, you agree to the terms of the license. https://github.com/apl2/QuestOfFour/blob/master/license.md
