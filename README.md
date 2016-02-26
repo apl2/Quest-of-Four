@@ -1,3 +1,5 @@
+#WAIT TO PLAY UNTIL SATURDAY AFTERNOON. IT DOESN'T WORK YET
+
 # Quest Of Four
 This is a game.
 Note: This game is in testing phase and is not complete.
