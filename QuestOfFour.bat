@@ -1,0 +1,1 @@
+java -Djava.library.path=resources -Xms512m -Xmx1024m -jar resources/QuestOfFour.jar
