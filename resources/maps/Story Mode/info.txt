@@ -3,5 +3,3 @@ shovel
 club
 heart
 diamond
-wizard
-ryo
