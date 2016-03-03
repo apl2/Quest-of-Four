@@ -9,7 +9,7 @@ If your machine is not fast, press the 8 key while playing to enter lag preventi
 # Install Instructions
 Click the Download ZIP button.
 After it downloads, extract.
-Navigate to QuestOfFour.bat.
-Launch QuestOfFour.bat.
+Navigate to QuestOfFour.jar.
+Launch QuestOfFour.jar.
   Note: It might warn you about security.
 By downloading this, you agree to the terms of the license. https://github.com/apl2/QuestOfFour/blob/master/license.md
