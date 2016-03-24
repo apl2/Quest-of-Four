@@ -1,7 +1,7 @@
 # Quest Of Four
 This is a game.
 Note: This game is in testing phase and is not complete.
-Unless you just want to try it out, wait until later to play this.
+Unless you just want to try it out, wait until later to play this. For the source code, go to https://github.com/Bisharp/AppliedJava.
 # Requirements
 You must have Java 1.7 or later.
 We don't really know what the minimum requirements are, although they aren't very high.
