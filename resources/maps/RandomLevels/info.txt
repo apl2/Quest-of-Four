@@ -1,0 +1,5 @@
+Village
+shovel
+club
+diamond
+heart

@@ -1,0 +1,1 @@
+1300,2200,images/icon.png,false,-3
