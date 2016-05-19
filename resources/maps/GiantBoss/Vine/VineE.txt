@@ -1,2 +1,0 @@
-VineBoss,1300,850,VineBoss,null,1000
-Head Boss,1300,850,Head Boss,null,1000
